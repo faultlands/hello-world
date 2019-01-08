@@ -1,5 +1,4 @@
 # hello-world
 Tutorial Repository
-Not sure what I'm doing, but this is the next bit of the tutorial.
-...
-okay.
+Doing this change on my own, for added practice.
+Lets see if I've got this down or not. :)
